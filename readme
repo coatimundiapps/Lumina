@@ -1,5 +1,53 @@
-Lumina
+# Lumina
 
-Lumina is a application that cleans, analyzes and optimizes your Deepin Linux system safely. Fast, elegant, and respectful of your data. For Deepin Linux.
+> A modern, safe, and open-source system cleaner for Linux.
+
+Lumina is a user-friendly system cleaning utility designed for Linux.
+It scans your system for unnecessary files (caches, logs, temporary files,
+orphans, duplicates…) and helps you reclaim disk space — **safely**.
+
+Built with **GTK4** and **Python**, Lumina focuses on a clean UI,
+clear safety indicators, and full transparency about what gets deleted.
+
+---
+
+## ✨ Features
+
+- **🧹 Smart Cleaning** — Predefined rules (based on BleachBit) to clean caches,
+  logs, temporary files, crash reports, and more.
+- **🛡️ Safety First** — Every rule is tagged `safe=true` or `safe=false`.
+  Risky categories are unchecked by default, and sensitive operations show a
+  warning before deletion.
+- **📊 Interactive Dashboard** — Visualize disk usage with an animated donut
+  chart and a storage breakdown per folder.
+- **🖼️ Duplicate Photo Detection** — Find visually similar photos using
+  perceptual hashing (`imagehash`).
+- **📁 Large File Finder** — Locate files above a custom size threshold.
+- **🗂️ Orphan Folder Cleanup** — Detect folders left behind by uninstalled apps,
+  with automatic backup before deletion.
+- **🚀 Autostart Manager** — Enable, disable, or remove startup applications.
+- **🔧 System Administration** — Clean system logs (requires admin password).
+- **🌍 Multi-language** — French, English, Spanish, German, Japanese, Portuguese,
+  Thai, Chinese.
+- **🌗 Dark/Light Theme** — Follows the system or can be forced manually.
+- **🔔 "What's New" Dialog** — See what changed after each update.
+
+---
+
+## 📸 Screenshots
+
+| Dashboard |
+|-----------|
+| ![Dashboard](/screenshots/dashboard.png)
+
+
+---
+
+## 📦 Installation
+
+### Option 1 — Pre-built packages (`.deb`)
+
+Download the latest `.deb` from the [Releases page](https://github.com/coatimundiapps/Lumina/releases) and install it:
+
 
 website : https://coatimundiapps.github.io/
