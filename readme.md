@@ -5,7 +5,9 @@ orphans, duplicates…) and helps you reclaim disk space — **safely**.
 Built with **GTK4** and **Python**, Lumina focuses on a clean UI,
 clear safety indicators, and full transparency about what gets deleted.
 
----
+
+![Lumina screenshot](/dashboard.png)
+
 
 ## ✨ Features
 
