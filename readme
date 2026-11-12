@@ -38,7 +38,7 @@ clear safety indicators, and full transparency about what gets deleted.
 
 | Dashboard |
 |-----------|
-| ![Dashboard](/screenshots/dashboard.png)
+screenshots/dashboard.png
 
 
 ---
@@ -50,4 +50,10 @@ clear safety indicators, and full transparency about what gets deleted.
 Download the latest `.deb` from the [Releases page](https://github.com/coatimundiapps/Lumina/releases) and install it:
 
 
-website : https://coatimundiapps.github.io/
+🌐 Website: https://coatimundiapps.github.io/
+
+🐛 Report a bug: https://github.com/coatimundiapps/Lumina/issues
+
+💬 Discussions: https://github.com/coatimundiapps/Lumina/discussions
+
+<div align="center"> <sub>Made with ❤️ for the Deepin community</sub> </div>
