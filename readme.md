@@ -1,4 +1,4 @@
-Lumina is a user-friendly system cleaning utility designed for Linux.
+Lumina is a user-friendly system cleaning utility designed for Deepin Linux.
 It scans your system for unnecessary files (caches, logs, temporary files,
 orphans, duplicates…) and helps you reclaim disk space — **safely**.
 
@@ -49,3 +49,6 @@ sudo apt install ./lumina_1.0.0_amd64.deb
 💬 Discussions: https://github.com/coatimundiapps/Lumina/discussions
 
 <div align="center"> <sub>Made with ❤️ for the Deepin community</sub> </div>
+
+*** INFORMATION : Application designed specifically for Deepin Linux. Use on other Linux distributions is not guaranteed. ***
+
