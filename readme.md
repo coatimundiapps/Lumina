@@ -34,9 +34,8 @@ clear safety indicators, and full transparency about what gets deleted.
 
 ## 📦 Installation
 
-### Option 1 — Pre-built packages (`.deb`)
-
 Download the latest `.deb` from the [Releases page](https://github.com/coatimundiapps/Lumina/releases) and install it:
+
 
 🔗 Links
 🌐 Website: https://coatimundiapps.github.io/
